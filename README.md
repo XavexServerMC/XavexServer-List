@@ -1,4 +1,4 @@
-# List of XavexServers
-#### This contains all the XavexServers created and their addresses to join in Minecraft.
-###### 1. Xanila City
-  Address: xavexserver:19284
+<h1>List of XavexServers</h1>
+<p>This contains all the XavexServers created and their addresses to join in Minecraft.</p>
+<p style:margin_left><h2>1. Xanila City</h2>
+Address: xavexserver:19284</p>
