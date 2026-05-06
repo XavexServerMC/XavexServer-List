@@ -2,4 +2,4 @@
 <p>This contains all the XavexServers created and their addresses to join in Minecraft Java.</p>
 <p><a href="">1. XavexServer (Original)</a></p>
 <p><a href="https://github.com/XavexServerMC/Xanila-City">2. Xanila City</a></p>
-<p><a href="">3. World of God</a></p>
+<p><a href="">3. World of God (Not Available)</a></p>
